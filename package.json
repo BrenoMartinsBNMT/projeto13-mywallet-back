@@ -19,5 +19,13 @@
     "mongodb": "^4.5.0",
     "nodemon": "^2.0.16",
     "uuid": "^8.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoMartinsBNMT/projeto13-mywallet-back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrenoMartinsBNMT/projeto13-mywallet-back/issues"
+  },
+  "homepage": "https://github.com/BrenoMartinsBNMT/projeto13-mywallet-back#readme"
 }
